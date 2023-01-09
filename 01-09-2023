@@ -1,0 +1,33 @@
+# DailyStandups
+----------------------------
+Andrew B.
+What do I have done?
+> Continuing to work on gettings post requests to work with backend.
+What do I need to get done?
+> Continue to work on project.
+Roadblocks
+> None.
+----------------------------
+Reed C.
+What do I have done?
+> I worked a little bit over the weekend on the Likes postings. 
+What do I need to get done?
+> I want to finish getting like a post working.
+Roadblocks
+> None.
+----------------------------
+Andrew N.
+What do I have done?
+>  I completed the authentication of the front end to the backend.
+What do I need to get done?
+> Began working on reset password feature. I will also be writitng test cases on the authentication feature. I am goin gto implement Jacoco on the back end as well.
+Roadblocks
+> None. 
+----------------------------
+Joshua Matute
+What do I have done?
+> I have almost finished setting up the CI/CD pipeline and I have implemented notifications via firebase.
+What do I need to get done?
+> Complete the pipline and continue creating a robust notification feature.
+Roadblocks
+> None.
