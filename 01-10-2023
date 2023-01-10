@@ -1,0 +1,33 @@
+# DailyStandups
+----------------------------
+Andrew B.
+What do I have done?
+> I've worked on the navigation bar, dark mode, and formatting the form for comments.
+What do I need to get done?
+> Eradicate Angular Material.
+Roadblocks
+> I kept running into issues with Github authentication on my IDE.
+----------------------------
+Reed C.
+What do I have done?
+> I did a little work with getting the dev branch up to date and working on the like a post feature.
+What do I need to get done?
+> I want to finish the Infosys application and finish the like a post feature.
+Roadblocks
+> None.
+----------------------------
+Andrew N.
+What do I have done?
+> 99% completion of the CI/CD pipeline, I got the tests to work on Angular.
+What do I need to get done?
+> Working on test coverage for both the front-end and back-end.
+Roadblocks
+> None.
+----------------------------
+Joshua Matute
+What do I have done?
+> 99% completion of the CI/CD pipeline.
+What do I need to get done?
+> I want to overhaul the firebase messaging system that I have in place and replace it using a websocket API.
+Roadblocks
+> Understanding the various concepts being used when developing a notification system.
