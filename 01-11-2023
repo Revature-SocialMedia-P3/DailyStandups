@@ -1,0 +1,33 @@
+# DailyStandups
+----------------------------
+Andrew B.
+What do I have done?
+> I created the nav-bar, dark mode is pretty much done, and I am currently working on the Post Feed feature.
+What do I need to get done?
+> Studying for interview.
+Roadblocks
+> None.
+----------------------------
+Reed C.
+What do I have done?
+> The Like a Post feature is mostly done on the front-end.
+What do I need to get done?
+> Keep working on Like a Post feature.
+Roadblocks
+> Integrating Jasmine & Karma testing.
+----------------------------
+Andrew N.
+What do I have done?
+> I finished the authorization and login features using Firebase. There is a 48% test coverage on the front-end.
+What do I need to get done?
+> Study for interview.
+Roadblocks
+> None.
+----------------------------
+Joshua Matute
+What do I have done?
+> CI/CD Pipeline and switched from working on notifications to working on a chat room & direct messages.
+What do I need to get done?
+> Implement websockets using Spring into the back-end so that I can create the front-end for the Chat Room and Direct messaging features.
+Roadblocks
+> Learning and implementing new topics within a short amount of time.
