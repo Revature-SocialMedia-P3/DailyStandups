@@ -1,0 +1,33 @@
+# DailyStandups
+----------------------------
+Andrew B.
+What do I have done?
+> Yesterday, I pushed splash page, dark mode, and nav bar to the dev branch.
+What do I need to get done?
+> I will put the logout button on the nav bar and change the dark mode color palette. I am also going to finish up the post to wall feature. 
+Roadblocks
+> Interview preperation.
+----------------------------
+Reed C.
+What do I have done?
+> I was working on the backend for the like a post feature. I also did some research on Junit testing.
+What do I need to get done?
+> I want to finish the like a post feature and implement testing for the feature.
+Roadblocks
+> None.
+----------------------------
+Andrew N.
+What do I have done?
+>  I completed the entire auth system and I have written tests for the auth & login features as well. All pushed to dev branch. 
+What do I need to get done?
+> I will be working on the user profile feature today.
+Roadblocks
+> None.
+----------------------------
+Joshua Matute
+What do I have done?
+> I have overhauled the previous messaging system I had and replaced it with WebSockets and STOMP.
+What do I need to get done?
+> I want to finish making the feature functional and build upon it.
+Roadblocks
+> None.
